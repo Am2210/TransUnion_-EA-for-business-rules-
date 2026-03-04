@@ -1,0 +1,14 @@
+numpy>=1.26
+
+# Plotly (graph_objects and express are included in this single package)
+plotly>=5.18
+
+# ML stack
+scikit-learn>=1.3
+
+# Genetic algorithms
+deap>=1.4
+
+# (optional) silence warnings consistently across environments
+packaging>=23.2 
+
